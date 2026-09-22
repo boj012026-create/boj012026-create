@@ -4,7 +4,7 @@
 
       
 :necktie: Min bakgrunn er teori spisset av praktisk innføring i bransjerelevant teknologi.
-Mitt strategi er å finne den ideelle balansen mellom fremdrift og kvalitet, ved å bruke best-practice konvensjoner som TDD, DRY, SOLID og Commitizen for å skrive ryddig kode.
+Min strategi er å finne den ideelle balansen mellom fremdrift og kvalitet, ved å bruke best-practice konvensjoner som TDD, DRY, SOLID og Commitizen for å skrive ryddig kode.
 
 :busts_in_silhouette: Med over 15 års butikkerfaring, har kundeservice og teamledelse formet meg til å holde hodet kaldt under press, kommunisere tydelig og løse uforutsigbare utfordringer i sanntid.
 
